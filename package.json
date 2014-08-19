@@ -1,0 +1,24 @@
+{
+  "name": "swiss_draw_simulation",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tshirai/swiss_draw_simulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshirai/swiss_draw_simulation/issues"
+  },
+  "homepage": "https://github.com/tshirai/swiss_draw_simulation",
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-connect": "~0.8.0"
+  }
+}
